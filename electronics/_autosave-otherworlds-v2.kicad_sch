@@ -2681,7 +2681,7 @@
 		)
 		(uuid "3faf3d06-53a9-4ae9-9007-8ac18225898e")
 	)
-	(label "D7"
+	(label "D1"
 		(at 142.24 118.745 0)
 		(effects
 			(font
@@ -2691,7 +2691,7 @@
 		)
 		(uuid "461e8268-a933-4798-9f7a-239c2edb6279")
 	)
-	(label "D5"
+	(label "D3"
 		(at 119.38 108.585 180)
 		(effects
 			(font
@@ -2741,7 +2741,7 @@
 		)
 		(uuid "62ad581c-2fce-4355-a6b2-a0369643fb95")
 	)
-	(label "D6"
+	(label "D2"
 		(at 119.38 116.205 180)
 		(effects
 			(font
